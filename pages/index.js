@@ -251,9 +251,9 @@ const BioDesigner = () => {
     <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden">
       {/* Cabeçalho do Perfil */}
       <div className="bg-gradient-to-r from-blue-700 to-blue-900 p-4 text-center text-white">
-        <div className="w-24 h-24 rounded-full bg-white mx-auto mb-3 overflow-hidden border-4 border-yellow-500">
+        <div className="w-24 h-24 rounded-full mx-auto mb-3 overflow-hidden">
           <img 
-            src="/api/placeholder/200/200" 
+            src="/pastor-amauri.png" 
             alt="Foto do Pastor Amauri" 
             className="w-full h-full object-cover"
           />
